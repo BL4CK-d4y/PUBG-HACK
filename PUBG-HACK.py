@@ -1,7 +1,7 @@
 try:
     import requests,hashlib,random,string,time
 except:
-    os.system("pip install requests ;python PUBG-CHECK.py")
+    os.system("pip install requests ;python PUBG-HACK.py")
 r = requests.session()
 print("""
 ██████╗ ██╗   ██╗██████╗  ██████╗
